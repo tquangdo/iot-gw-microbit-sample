@@ -5,6 +5,8 @@
 ![Forks](https://img.shields.io/github/forks/tquangdo/iot-gw-microbit-sample?color=f05340)
 [![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/iot-gw-microbit-sample/issues/new)
 
+![IoTGW](screenshots/IoTGW.png)
+
 ## reference
 [youtube](https://www.youtube.com/playlist?list=PLB5bcMnwbMmyaAHOnfg131xJriCnmb7PH)
 
