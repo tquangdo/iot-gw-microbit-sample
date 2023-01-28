@@ -6,7 +6,7 @@ from Adafruit_IO import MQTTClient
 AIO_LED_FEED_ID = "dotq-bbc-led"
 AIO_TEMP_FEED_ID = "dotq-bbc-temp"
 ADAFRUIT_IO_USERNAME = "trangia61"
-ADAFRUIT_IO_KEY = "aio_BLbo045OzG8b6QA9MDoMmnsew3Aj"
+ADAFRUIT_IO_KEY = "xxx"
 
 
 def connected(client):
